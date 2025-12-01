@@ -22,10 +22,7 @@ import clubImg from '../assets/club.svg'
 import team1Img from '../assets/team1.jpg'
 import team2Img from '../assets/team2.avif'
 import team3Img from '../assets/team3.avif'
-
-
-
-
+import griImg from "../assets/grid.jpg"
 
 
 
@@ -54,6 +51,7 @@ export const assets = {
     team1Img,
     team2Img,
     team3Img,
+    griImg
 }
 
 export const serviceProvider = [
