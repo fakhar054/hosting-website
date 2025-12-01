@@ -44,7 +44,7 @@ export default function Hero() {
           </div>
 
           {/* right-side */}
-          <div className="w-full md:w-1/2">
+          <div className="w-full  md:w-1/2">
             <img
               className="h-full w-full rounded object-cover object-center"
               src={assets.HeroImg}
